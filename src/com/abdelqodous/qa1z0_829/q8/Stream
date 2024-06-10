@@ -1,0 +1,12 @@
+What is the result?
+
+    A. 0 1 1 0
+    B. false true true Optional[NewYear]
+    C. 0 1 0 Optional[NewYear]
+    D. true true false NewYear
+
+Ans.
+    (B.)
+
+Community:
+    findFirst() returns Optional

@@ -1,0 +1,9 @@
+Which statement is true while the program prints GC?
+
+    A. Both the objects previously referenced by t1 are eligible for garbage collection.
+    B. None of the objects are eligible for garbage collection.
+    C. Only the object referenced by t2 is eligible for garbage collection.
+    D. Only one of the objects previously referenced by t1 is eligible for garbage collection.
+
+Ans.
+    (D.)

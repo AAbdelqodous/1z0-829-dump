@@ -1,0 +1,18 @@
+Which action enables the code to compile?
+
+    A. Replace record with void.
+    B. Replace record with class.
+    C. Remove the regNo initialization statement.
+    D. Make the regNo variable public.
+    E. Make the regNo variable static.
+
+Ans.
+   (E.)
+
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    While you can add methods, static fields, and other data types, you cannot add instance
+    fields outside the record declaration, even if they are private. Doing so defeats the purpose
+    of using a record and could break immutability.
+    Records also do not support instance initializers. All initialization for the fields of a
+    record must happen in a constructor.

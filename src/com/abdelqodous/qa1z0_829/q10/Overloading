@@ -1,0 +1,15 @@
+What is the result?
+
+    A. Compilation fails.
+    B. there
+    C. hello
+    D. A NumberFormatException is thrown.
+
+Ans.
+    (C.)
+
+Gemini:
+    The Java data type for the literal 0b1101_1010 is int.
+
+    0b prefix: This indicates that the following digits represent a binary literal.
+    1101_1010: These are the binary digits (bits) that define the value.

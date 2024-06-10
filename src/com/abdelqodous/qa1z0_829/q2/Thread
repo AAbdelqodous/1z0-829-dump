@@ -1,0 +1,8 @@
+Which statement is true?
+    A. IllegalStateException is thrown if a thread in waiting state is moved back to runnable.
+    B. A thread in waiting state consumes CPU cycles.
+    C. After the timed wait expires, the waited thread moves to the terminated state.
+    D. A thread in waiting state must handle InterruptedException.
+
+Ans.
+    (D.)

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1z0-829-dump.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/Volatile and atomic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/VolatileAtomicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q10/Overloading" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q2/Thread" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q3/Day light saving time" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q3/DayLightSavingTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q4/Instant" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q4/InstantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q5/Duration and period" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q5/PeriodDuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q6/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q6/record" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q7/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q7/enum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q8/Stream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q8/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q9/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q9/Garbage collector" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2hhRe58DGqhDC7Hq9BVWlFe0Z4G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.InstantDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StreamDemo.executor": "Run",
+    "Application.VolatileAtomicDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="VolatileAtomicDemo" />
+      <command value="InstantDemo" />
+      <command value="App" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q6.App" />
+      <module name="1z0-829-dump" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstantDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q4.InstantDemo" />
+      <module name="1z0-829-dump" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q10.Main" />
+      <module name="1z0-829-dump" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q8.StreamDemo" />
+      <module name="1z0-829-dump" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q1.VolatileAtomicDemo" />
+      <module name="1z0-829-dump" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.InstantDemo" />
+        <item itemvalue="Application.VolatileAtomicDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="" />
+      <created>1718044418307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718044418307</updated>
+    </task>
+    <servers />
+  </component>
+</project>

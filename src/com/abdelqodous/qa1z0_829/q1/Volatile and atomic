@@ -1,0 +1,9 @@
+Which is true?
+
+    A. The program prints t1 : 1 : t2 : 1: t1 : 2 : t2 : 2 : in random order.
+    B. The program prints t1 : 1 : t2 : 1: t1 : 2 : t2 : 2 :
+    C. The program prints t1 : 1 : t2 : 1: t1 : 1 : t2 : 1 : indefinitely.
+    D. The program prints an exception.
+
+Ans.
+    (A.)

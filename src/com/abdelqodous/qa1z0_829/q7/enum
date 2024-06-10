@@ -1,0 +1,15 @@
+What is the result?
+
+    A. 0 CLOUDY
+    B. 1 SNOWY
+    C. 0 SNOWY
+    D. 1 RAINY
+    E. Compilation fails
+
+Ans.
+    (C.)
+
+
+Community:
+    ordinal() -> get the index of enum_value - 0
+    valueOf(CLOUDY) = CLOUDY, but it prints a enum -> toString() is called -> SNOWY

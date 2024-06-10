@@ -1,0 +1,14 @@
+What is the result?
+
+    A. PT5000SPT60MP6D
+    B. PT5SPT1MP6D
+    C. 5S1M6D
+    D. 5000S60M6D
+
+Ans.
+    (B.)
+
+Community:
+    Period: P#(Y,M,D)
+    Duration: PT#(H, M, S)
+    Result: PT5SPT1MP6D
