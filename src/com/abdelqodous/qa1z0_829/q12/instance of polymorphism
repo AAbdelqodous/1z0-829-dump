@@ -1,0 +1,22 @@
+What is the result?
+
+    A.  mA
+    B.  mB
+        mA
+    C.  mB
+    D.  mB
+        mC
+
+Ans.
+    (D.)
+
+Gemini:
+    if (cobj instanceof B v): This checks if the object referenced by
+    cobj (which is actually a C object) is an instance of class B.
+    Since C inherits from B, the condition is true.
+    The instanceof also performs a pattern matching,
+    assigning the reference of the object to the variable v of type B.
+
+    if (v instanceof C v1): This is another instanceof check,
+    but now it verifies if v (which refers to the C object) is an instance of C.
+    This is again true, and pattern matching assigns the reference to v1 of type C.

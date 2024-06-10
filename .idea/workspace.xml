@@ -4,35 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1z0-829-dump.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/Volatile and atomic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q1/VolatileAtomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q10/Overloading" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q2/Thread" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q3/Day light saving time" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q3/DayLightSavingTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q4/Instant" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q4/InstantDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q5/Duration and period" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q5/PeriodDuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q6/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q6/record" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q7/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q7/enum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q8/Stream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q8/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q9/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q9/Garbage collector" afterDir="false" />
+    <list default="true" id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Art.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/SInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Sealed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Story.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q12/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q12/instance of polymorphism" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -165,6 +145,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718044418307</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718052232174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718052232174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

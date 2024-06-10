@@ -1,0 +1,20 @@
+Which set of class definitions compiles?
+
+    A. interface Story extends SInt {}
+        interface Art extends SInt {}
+    B. public interface Story extends SInt {}
+        public interface Art extends SInt {}
+    C. sealed interface Story extends SInt {}
+        non-sealed class Art implements SInt {}
+    D. non-sealed interface Story extends SInt {}
+        non-sealed interface Art extends SInt {}
+    E. non-sealed interface Story extends SInt {}
+        class Art implements SInt {}
+
+Ans.
+    (E.) is not the correct answer,
+    (D.) is the right answer.
+
+Community:
+    non-sealed interface Story extends SInt {}
+    non-sealed interface Art extends SInt {}, because the class in option E require an modifier
