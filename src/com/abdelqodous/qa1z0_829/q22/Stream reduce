@@ -1,0 +1,16 @@
+Given the code fragment:
+List<Integer> listOfNumbers = List.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+Which code fragment returns different values?
+
+    A. int sum = listOfNumbers.stream().reduce(0, Integer::sum) + 5;                        //60
+    B. int sum = listOfNumbers.parallelStream().reduce(0, Integer::sum) + 5 ;               //60
+    C. int sum = listOfNumbers.parallelStream().reduce((m, n) -> m + n).orElse(5) + 5;      //60
+    D. int sum = listOfNumbers.parallelStream().reduce(5, Integer::sum);                    //105
+    E. int sum = listOfNumbers.stream().reduce(5, (a, b) -> a+ b);                          //60
+
+Ans.
+    (D.)
+
+Community:
+    D. int sum = listOfNumbers.parallelStream().reduce(5, Integer::sum);
+    (1 + 5) + (2 + 5) + (3 + 5) + (4 + 5) + (5 + 5) + (6 + 5) + (7 + 5) + (8 + 5) + (9 + 5) + (10 + 5) = 105

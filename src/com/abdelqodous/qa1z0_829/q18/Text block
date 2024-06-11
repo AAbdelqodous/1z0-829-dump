@@ -1,0 +1,17 @@
+What is the result?
+
+    A. true:true:false:false
+    B. true:false:true:false
+    C. true:false:true:true
+    D. true:false:false:false
+
+Ans.
+    (D.)
+
+Community:
+    The first comparison is true because myStr and myTextBlk1 are equal
+    (text block doesn't include trailing new lines if there is no content after the last quote).
+    The second and third comparisons are false because myTextBlk2 includes a newline character at the end,
+    making it different from myStr and myTextBlk1.
+    The last comparison is false because,
+    despite interning, myTextBlk1 and myTextBlk2 are not equal due to the newline character in myTextBlk2.

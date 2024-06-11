@@ -1,0 +1,23 @@
+What is the result?
+
+    A.  100
+        100
+        1000
+    B.  101
+        101
+        1000
+    C.  1001
+        100
+        1000
+    D.  1001
+        1001
+        1000
+
+Ans.
+    (C.)
+
+Google:
+    Define the terms pass-by-reference and pass-by-value:
+        Pass-by-reference: When a method is called, the method arguments reference the same variable in memory as the caller.
+        Pass-by-value: When a method is called, the caller passes a copy of the argument variables to the method
+            resulting in two values in memory.

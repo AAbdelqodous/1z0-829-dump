@@ -1,0 +1,27 @@
+Which code at line n1, obtains the java.io.Console object?
+
+    A. Console console = Console.getInstance();
+    B. Console console = System.console();
+    C. Console console = new Console(System.in);
+    D. Console console = new Console(new InputStreamReader(System.in));
+    E. Console console = System.console(System.in);
+
+Ans.
+    (B.)
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    The java.io.Console class is specifically designed to handle user interactions. After
+    all, System.in and System.out are just raw streams, whereas Console is a class with
+    numerous methods centered around user input.
+    The Console class is a singleton because it is accessible only from a factory method and
+    only one instance of it is created by the JVM.
+
+    Console console = System.console();
+    if (console != null) {
+       String userInput = console.readLine();
+       console.writer().println("You entered: " + userInput);
+    } else {
+       System.err.println("Console not available");
+    }
+
+    If it is available, the program retrieves a line of input from the user and prints the result.

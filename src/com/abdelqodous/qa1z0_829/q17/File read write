@@ -1,0 +1,15 @@
+What is the content of the out.txt file?
+
+    A. 012345678
+    B. 01234567801234
+    C. 01234567
+    D. 0123456789
+    E. 012345678901234
+    F. 0123456789234567
+
+Ans.
+    (F.)
+
+Community:
+    Buffer already contains 01234567 and we have 89 left so next time it will replace 0 with 8 and 1 with 9.
+    As there is no data left so it will write 89234567

@@ -1,0 +1,22 @@
+What is the result?
+
+    A. {bicycle=7, car=7, motorcycle=7, truck=7}
+    B. {3:bicycle, 0:car, 6:motorcycle, 5:truck}
+    C. Compilation fails.
+    D. {bicycle=1, car=3, motorcycle=1, truck=2}
+    E. {bicycle, car, motorcycle, truck}
+
+Ans.
+    (D.)
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    The groupingBy() collector tells collect() that it should group all of the elements of
+    the stream into a Map. The function determines the keys in the Map. Each value in the Map is
+    a List of all entries that match that key.
+    Note that the function you call in groupingBy() cannot return null. It
+    does not allow null keys.
+
+    There’s another method signature that lets us pass a downstream collector.
+        Collectors.groupingBy( String::length, Collectors.toSet())); // {3=[car], 5=[truck], 7=[bicycle], 10=[motorcycle]}
+
+

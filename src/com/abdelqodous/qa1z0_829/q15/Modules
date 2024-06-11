@@ -1,0 +1,18 @@
+Which statement is true about modules?
+    A. Only unnamed modules are on the module path.
+    B. Automatic and named modules are on the module path.
+    C. Only automatic modules are on the module path.
+    D. Only named modules are on the module path.
+    E. Automatic and unnamed modules are on the module path.
+
+Ans.
+    (B.)
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    A named module is one containing a module-info.java file. It appear on the module path rather than the classpath.
+    An automatic module appears on the module path but does not contain a module-info.java file.
+    An unnamed module appears on the classpath.Like an automatic module, it is a regular JAR.
+                                               Unlike an automatic module, it is on the classpath rather than the module path.
+
+    Unnamed modules do not export any packages to named or automatic modules.
+    The unnamed module can read from any JARs on the classpath or module path.

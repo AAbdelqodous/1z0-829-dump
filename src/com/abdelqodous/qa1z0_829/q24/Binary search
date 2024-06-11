@@ -1,0 +1,25 @@
+What is the result?
+
+    A.  1
+        2
+        -4
+    B.  2
+        -2
+    C.  1
+        1
+        1
+    D.  2
+        2
+        0
+
+Ans.
+    (A.)
+
+Chat GPT:
+    The initial order of the list is ["e1", "e3", "e2"].
+
+    Collections.binarySearch() requires the list to be sorted in ascending order.
+    If the list is not sorted, the result of the search is undefined.
+
+    After Collections.reverse(list), the list becomes ["e2", "e3", "e1"].
+

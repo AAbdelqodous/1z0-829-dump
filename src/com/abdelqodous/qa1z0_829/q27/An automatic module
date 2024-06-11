@@ -1,0 +1,13 @@
+Assume you have an automatic module from the module path display-ascii-0.2.jar.
+Which name is given to the automatic module based on the given JAR file?
+
+    A. display-ascii-0
+    B. display-ascii
+    C. display.ascii
+    D. display-ascii-0.2
+
+Ans.
+    (C.)
+
+Community:
+    converts any special characters in the name to dots

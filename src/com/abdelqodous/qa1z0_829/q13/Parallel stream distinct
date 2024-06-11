@@ -1,0 +1,9 @@
+What is the result?
+
+    A. ABBCDE // the order of elements is unpredictable
+    B. ABCDE
+    C. ABCDE // the order of elements is unpredictable
+    D. ADEABCB // the order of elements is unpredictable
+
+Ans.
+    (C.)

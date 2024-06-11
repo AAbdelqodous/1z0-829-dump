@@ -1,0 +1,19 @@
+Which two statements at Line n1 independently enable you to print 1250? (Choose two.)
+
+    A. Integer res = 250 + Integer.parseInt(s);
+    B. Integer res = 250 + Integer.valueOf(s);
+    C. Integer res = 250 + s2;
+    D. Integer res = 250;
+        res =+ s2;
+    E. Integer res = 250 + s;
+    F. Integer res = 250 + Integer(s2);
+
+Ans.
+    (C.)
+
+Community:
+    Should be C and D, but D should have "+=" instead of "=+".
+        I've tried all the alternatives in an online compiler and these are the only ones that work.
+    A and B would work if "s" were "1000", but parseInt() and valueOf() arent able to handle the underscore in "10_00".
+    E is just plain wrong cuz s is a string and cant be automatically cast to an int.
+    F is wrong cuz "Integer()" casting doesn't exist. One would instead use valueOf() to cast.

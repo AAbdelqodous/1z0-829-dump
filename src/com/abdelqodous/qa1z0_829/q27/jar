@@ -1,0 +1,17 @@
+Since that’s a number of rules, let’s review the algorithm in a list for determining the name
+of an automatic module:
+     ■ If the MANIFEST.MF specifies an Automatic-Module-Name, use that. Otherwise, proceed with the remaining rules.
+     ■ Remove the file extension from the JAR name.
+     ■ Remove any version information from the end of the name. A version is digits and dots with possible extra information
+        at the end: for example, -1.0.0 or -1.0-RC.
+     ■ Replace any remaining characters other than letters and numbers with dots.
+     ■ Replace any sequences of dots with a single dot.
+     ■ Remove the dot if it is the first or last character of the result.
+
+#       Description                                 Example1                                Example2
+1       Beginning JAR name                          commons2-x-1.0.0-SNAPSHOT.jar           mod_$-1.0.jar
+2       Remove file extension                       commons2-x-1.0.0-SNAPSHOT               mod_$-1.0
+3       Remove version information                  commons2-x                              mod_$
+4       Replace special characters                  commons2.x                              mod..
+5       Replace sequence of dots                    commons2.x                              mod.
+6       Remove leading/trailing dots                commons2.x                              mod

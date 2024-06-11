@@ -5,12 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Art.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/SInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Sealed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q11/Story.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q12/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q12/instance of polymorphism" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q13/Parallel stream distinct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q13/ParallelDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q14/Collectors groupingBy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q15/Modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q16/Console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q16/ConsoleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/File read write" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/FileReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/Text block" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/Text block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/TextBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q19/Immutable string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q19/ImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q20/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q21/Enhaced switch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q21/EnhancedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q22/Stream reduce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q22/StreamReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q23/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q23/Passing parameters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q24/Binary search" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q24/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q25/IntParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q25/parseInt and valueOf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q26/Bit wise complement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q26/BitComplementWise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q27/An automatic module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q27/jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Bottom-Up Migration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Migration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Top- Down Migration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q29/Lock framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q30/ExecutorServiceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/Files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/NioDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/Access modifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/Desig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/Enum with switch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/EnumSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q34/Overloading" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q34/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q35/Polymorphism" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q35/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/IFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/MyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/Overriding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/OverridingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q37/Sealed and non-sealed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q37/Sealed classes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +78,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hhRe58DGqhDC7Hq9BVWlFe0Z4G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,31 +91,60 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.App.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BitComplementWise.executor": "Run",
+    "Application.ConsoleDemo.executor": "Run",
+    "Application.ExecutorServiceDemo.executor": "Run",
+    "Application.FileReaderWriter.executor": "Run",
+    "Application.ImmutableString.executor": "Run",
     "Application.InstantDemo.executor": "Run",
+    "Application.IntParsing.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NioDemo.executor": "Run",
+    "Application.ParallelDistinct.executor": "Run",
     "Application.StreamDemo.executor": "Run",
+    "Application.StreamReduce.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TextBlock.executor": "Run",
     "Application.VolatileAtomicDemo.executor": "Run",
+    "Application.com.abdelqodous.qa1z0_829.q35.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed.elsayed\IdeaProjects\1z0-829-dump\src\com\abdelqodous\qa1z0_829\q27" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.abdelqodous.qa1z0_829.q18" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="VolatileAtomicDemo" />
       <command value="InstantDemo" />
       <command value="App" />
+      <command value="ParallelDistinct" />
+      <command value="TextBlock" />
+      <command value="ImmutableString" />
+      <command value="BinarySearch" />
+      <command value="IntParsing" />
+      <command value="Test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.abdelqodous.qa1z0_829.q35.Test">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q6.App" />
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q32.App" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q6.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q4.InstantDemo" />
+    <configuration name="ExecutorServiceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q30.ExecutorServiceDemo" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q4.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q10.Main" />
+    <configuration name="NioDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q31.NioDemo" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q10.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q8.StreamDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q34.Test" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q8.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q1.VolatileAtomicDemo" />
+    <configuration name="com.abdelqodous.qa1z0_829.q35.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q35.Test" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q1.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.com.abdelqodous.qa1z0_829.q35.Test" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.InstantDemo" />
-        <item itemvalue="Application.VolatileAtomicDemo" />
+        <item itemvalue="Application.NioDemo" />
+        <item itemvalue="Application.ExecutorServiceDemo" />
       </list>
     </recent_temporary>
   </component>

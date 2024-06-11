@@ -1,0 +1,13 @@
+Which two method invocations execute? (Choose two.)
+
+    A. new MyC().m2();
+    B. IFace.m4();
+    C. IFace myClassObj = new MyC();
+       myClassObj.m3();
+    D. IFace myClassObj = new MyC();
+       myClassObj.m4();
+    E. IFace.m3();
+    F. IFace.m2();
+
+Ans.
+    (A., E.)

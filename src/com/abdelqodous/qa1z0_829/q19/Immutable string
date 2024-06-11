@@ -1,0 +1,17 @@
+What is the result?
+
+    A. 888
+    B. 8109
+    C. 7107
+    D. 777
+    E. 71010
+    F. 81111
+
+Ans.
+    (D.)
+
+Community:
+    a.replace("Hello!", "Welcome!") does’t change a.
+    It creates a new string which is not used.
+    Therefore, a.indexOf("Java") will return the same index (7) both times.
+    The same index will be returned by b.indexOf("Java") since b is created from a.

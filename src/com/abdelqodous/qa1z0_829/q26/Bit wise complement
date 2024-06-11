@@ -1,0 +1,25 @@
+What is the result?
+
+    A.  false 0
+        true 1
+    B.  false 1
+        false 2
+    C.  true 1
+        false 2
+    D.  false 1
+        true 2
+
+Ans.
+
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    !a  Inverts a boolean’s logical value
+    ~b  Inverts all 0s and 1s in a number, It can only be applied to integer numeric types such as
+        byte, short, char, int, and long.
+        to find the bitwise complement of a number, multiply it by negative one and then subtract one
+
+
+    a && b  Value is true only if both values are true. If the left side is false, then the right side will not be evaluated
+    a & b                                               If the left side is false, then the right side will be evaluated
+    c || d  Value is true if at least one of the values is true. If the left side is true, then the right side will not be evaluated.
+    c | d                                                        If the left side is true, then the right side will not be evaluated.

@@ -1,0 +1,21 @@
+Which statement is true?
+
+    A. The lock() method returns a boolean indicator immediately regardless if it has or has not managed to acquire the lock.
+    B. The lock() method returns a boolean indicator immediately if it has managed to acquire the lock, otherwise it waits for the lock acquisition.
+    C. The tryLock() method returns a boolean indicator immediately if it has managed to acquire the lock, otherwise it waits for the lock acquisition.
+    D. The tryLock() method returns a boolean indicator immediately regardless if it has or has not managed to acquire the lock.
+
+Ans.
+    (D.)
+
+Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide:
+    The Lock interface is pretty easy to use. When you need to protect a piece of code from multithreaded
+    processing, create an instance of Lock that all threads have access to.
+
+    void lock()         Requests lock and blocks until lock is acquired. (Do not return any value)
+    boolean tryLock()   Requests lock and returns immediately. Returns boolean indicating whether lock was successfully acquired.
+                        attempt to acquire a lock and immediately return a boolean result indicating whether the lock was obtained.
+    boolean tryLock(
+    long timeout,
+    TimeUnit unit)      Requests lock and blocks for specified time or until lock is acquired.
+                        Returns boolean indicating whether lock was successfully acquired.

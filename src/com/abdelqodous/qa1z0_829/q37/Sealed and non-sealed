@@ -1,0 +1,25 @@
+Which two are valid definitions of the WordDoc class? (Choose two.)
+
+    A. package p1.p2;
+        public non-sealed class WordDoc extends Doc { }
+    B. package p1;
+        public final class WordDoc extends Doc {}
+    C. package p1;
+        non-sealed abstract class WordDoc extends Doc {}
+    D. package p1.p2:
+        public sealed class WordDoc extends Doc { }
+    E. package p1;
+        public class WordDoc extends Doc {}
+    F. package p1;
+        public non-sealed class WordDoc extends Doc {}
+
+Ans.
+    (B., F.)
+
+Community:
+    A wrong cuz "package p1.p2" doesn't make sense
+    B correct
+    C wrong cuz no access modifier is more restrictive than public and not allowed.
+    D wrong cuz when using "sealed", one must also use "permits"
+    E wrong cuz missing "sealed", "non-sealed", or "final"
+    F correct
