@@ -1,0 +1,32 @@
+What is the result?
+
+    A. Compilation fails.
+    B. wTablewChair TableChair
+    C. TableChair TableChair
+    D. A RuntimeException is thrown.
+    E. wTableChair TableChair
+
+Ans.
+    (B.)
+
+OCP-Java-SE-17-Developer-Study-Guide-Exam-1Z0-829:
+    1st method      We set the identity to "w" and the accumulator to add and the combiner to String::concat
+                    If the stream has multiple elements, the accumulator is applied to combine them.
+    2nd method      We set the accumulator to add.
+
+    3rd signature   Is used when we are dealing with different types.
+                    It allows Java to create intermediate reductions and then combine them at the end.
+                    ex:-
+                        Stream<String> stream = Stream.of("w", "o", "l", "f!");
+                        int length = stream.reduce(0, (i, s) - > i+s.length(), (a, b) - > a+b);
+                        System.out.println(length); // 5
+
+                        The first parameter (0) is the value for the initializer. If we had an empty stream, this
+                        would be the answer.
+                        The second parameter is the accumulator. Unlike the accumulators you saw previously,
+                        this one handles mixed data types. In this example, the first argument, i, is
+                        an Integer, while the second argument, s, is a String. It adds the length of the current
+                        String to our running total.
+                        The third parameter is called the combiner, which combines any intermediate totals.
+                        In this case, a and b are both Integer values.
+

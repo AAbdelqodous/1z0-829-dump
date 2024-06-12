@@ -1,0 +1,27 @@
+Which two modifications enable the code to print Open Close?
+
+    A. Replace line n1 with:
+        class Folder extends Closeable {
+    B. Replace line n1 with:
+        class Folder implements AutoCloseable {
+    C. At line n2, insert:
+         @Override
+         public void close() throws IOException {
+             System.out.println("Close ");
+         }
+    D. Replace line n1 with:
+        class Folder extends Exception {
+    E. At line n2, insert:
+        final void close() {
+            System.out.println("Close ");
+        }
+
+Ans.
+    (B., C.)
+
+Community:
+    A   is wrong cuz both Closeable and AutoCloseable are "interfaces", not classes.
+        Therefore, the "implements" keyword must be used.
+    D   wrong. the fact that it is "final" and does not throw anything is fine,
+        but it is missing the "public" keyword. trying to compile without "public" gives this error:
+        "attempting to assign weaker access privileges; was public"

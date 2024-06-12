@@ -1,0 +1,10 @@
+What is the result?
+
+    A. User name (EN - US)
+    B. The program throws a MissingResourceException.
+    C. UserName
+    D. User name (EN)
+    E. User name (US)
+
+Ans.
+    (D.)

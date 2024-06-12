@@ -1,0 +1,11 @@
+Which action prints Wagon : 200?
+
+    A. At line n1, implement the java.io.AutoCloseable interface.
+    B. At line n3, replace Car with LuxuryCar.
+    C. At line n1, implement the java.io.Serializable interface.
+    D. At line n3, replace readObject() with readLine().
+    E. At line n2, in the main method signature, add throws IOException, ClassNotFoundException.
+    F. At line n2, in the main method signature, add throws IOException, ClassCastException.
+
+Ans.
+    (E.)

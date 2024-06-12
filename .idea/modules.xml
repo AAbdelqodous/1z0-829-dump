@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1z0-829-dump.iml" filepath="$PROJECT_DIR$/1z0-829-dump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.transport.vehicle./com.transport.vehicle..iml" filepath="$PROJECT_DIR$/com.transport.vehicle./com.transport.vehicle..iml" />
+      <module fileurl="file://$PROJECT_DIR$/mods/zoo.tours.agency/zoo.tours.agency.iml" filepath="$PROJECT_DIR$/mods/zoo.tours.agency/zoo.tours.agency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mods/zoo.tours.api/zoo.tours.api.iml" filepath="$PROJECT_DIR$/mods/zoo.tours.api/zoo.tours.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mods/zoo.tours.reservations/zoo.tours.reservations.iml" filepath="$PROJECT_DIR$/mods/zoo.tours.reservations/zoo.tours.reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mods/zoo.visitor/zoo.visitor.iml" filepath="$PROJECT_DIR$/mods/zoo.visitor/zoo.visitor.iml" />
     </modules>
   </component>
 </project>

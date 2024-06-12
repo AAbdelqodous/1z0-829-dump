@@ -5,61 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6843d86-4580-45bb-be2e-8e28c5ef6f86" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q13/Parallel stream distinct" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q13/ParallelDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q14/Collectors groupingBy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q15/Modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q16/Console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q16/ConsoleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/File read write" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/FileReaderWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q17/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/Text block" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/Text block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q18/TextBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q19/Immutable string" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q19/ImmutableString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q20/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q21/Enhaced switch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q21/EnhancedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q22/Stream reduce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q22/StreamReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q23/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q23/Passing parameters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q24/Binary search" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q24/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q25/IntParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q25/parseInt and valueOf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q26/Bit wise complement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q26/BitComplementWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q27/An automatic module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q27/jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Bottom-Up Migration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Migration" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q28/Top- Down Migration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q29/Lock framework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q30/ExecutorServiceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/Files" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/NioDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q31/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/Access modifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q32/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/Desig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/Enum with switch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q33/EnumSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q34/Overloading" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q34/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q35/Polymorphism" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q35/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/IFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/MyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/Overriding" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q36/OverridingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q37/Sealed and non-sealed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q37/Sealed classes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.transport.vehicle/com.transport.vehicle..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/com.transport.vehicle/com.transport.vehicle..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/com.transport.vehicle/src/com/transport/vehicle/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/com.transport.vehicle/src/com/transport/vehicle/cars/impl/CarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/com.transport.vehicle/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.agency/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.agency/src/zoo/tours/agency/TourImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.agency/zoo.tours.agency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.api/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.api/src/zoo/tours/api/Souvenir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.api/src/zoo/tours/api/Tour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.api/zoo.tours.api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.reservations/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.reservations/src/zoo/tours/reservations/TourFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.tours.reservations/zoo.tours.reservations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.visitor/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.visitor/src/zoo/visitor/Tourist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mods/zoo.visitor/zoo.visitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Captions.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Captions_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Captions_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Captions_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q38/Reduce and identity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q38/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q39/Modules in a tour app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q39/Reviewing directives.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q39/Reviewing services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q39/Service provider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/A/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/A/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/A/L4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/B/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/C/L5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/D/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/E/L6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/F/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q40/var" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q41/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q41/Serialization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q41/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q41/p.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q42/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q42/Inherited serializable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q42/LuxuryCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q42/SerializedInherited.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q42/car.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q43/AppStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q43/Deserialized cast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q43/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q43/Software.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q43/game.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q44/Resource bundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q44/ResourceBundleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q45/Inherited exception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q45/OutOfStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q45/StockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q45/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q46/AutoClosable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q46/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q46/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q47/ElectronicProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q47/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q47/Stream collectors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q47/StreamCollectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q48/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdelqodous/qa1z0_829/q48/SortBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +83,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Interface" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -93,6 +108,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.App.executor": "Run",
+    "Application.AppStore.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BitComplementWise.executor": "Run",
     "Application.ConsoleDemo.executor": "Run",
@@ -101,9 +117,14 @@
     "Application.ImmutableString.executor": "Run",
     "Application.InstantDemo.executor": "Run",
     "Application.IntParsing.executor": "Run",
+    "Application.L4.executor": "Run",
+    "Application.L6.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NioDemo.executor": "Run",
     "Application.ParallelDistinct.executor": "Run",
+    "Application.ResourceBundleTest.executor": "Run",
+    "Application.Shop.executor": "Run",
+    "Application.SortBook.executor": "Run",
     "Application.StreamDemo.executor": "Run",
     "Application.StreamReduce.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
@@ -111,6 +132,8 @@
     "Application.TextBlock.executor": "Run",
     "Application.VolatileAtomicDemo.executor": "Run",
     "Application.com.abdelqodous.qa1z0_829.q35.Test.executor": "Run",
+    "Application.com.abdelqodous.qa1z0_829.q38.Test.executor": "Run",
+    "Application.com.abdelqodous.qa1z0_829.q46.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -119,9 +142,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\caimg\IdeaProjects\1z0-829-dump\mods" />
       <recent name="C:\Users\ahmed.elsayed\IdeaProjects\1z0-829-dump\src\com\abdelqodous\qa1z0_829\q27" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.abdelqodous.qa1z0_829.q46" />
       <recent name="com.abdelqodous.qa1z0_829.q18" />
     </key>
   </component>
@@ -136,15 +161,17 @@
       <command value="BinarySearch" />
       <command value="IntParsing" />
       <command value="Test" />
+      <command value="ResourceBundleTest" />
+      <command value="SortBook" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.com.abdelqodous.qa1z0_829.q35.Test">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q32.App" />
+  <component name="RunManager" selected="Application.SortBook">
+    <configuration name="AppStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q43.AppStore" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q32.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q43.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecutorServiceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q30.ExecutorServiceDemo" />
+    <configuration name="ResourceBundleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q44.ResourceBundleTest" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q30.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q44.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q31.NioDemo" />
+    <configuration name="SortBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q48.SortBook" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q31.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q48.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +206,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q34.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q45.Test" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q34.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q45.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.abdelqodous.qa1z0_829.q35.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q35.Test" />
+    <configuration name="com.abdelqodous.qa1z0_829.q46.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelqodous.qa1z0_829.q46.Test" />
       <module name="1z0-829-dump" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q35.*" />
+          <option name="PATTERN" value="com.abdelqodous.qa1z0_829.q46.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.abdelqodous.qa1z0_829.q35.Test" />
+        <item itemvalue="Application.SortBook" />
+        <item itemvalue="Application.com.abdelqodous.qa1z0_829.q46.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.NioDemo" />
-        <item itemvalue="Application.ExecutorServiceDemo" />
+        <item itemvalue="Application.ResourceBundleTest" />
+        <item itemvalue="Application.AppStore" />
       </list>
     </recent_temporary>
   </component>
@@ -231,11 +258,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718052232174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="continue">
+      <option name="closed" value="true" />
+      <created>1718054655507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718054655507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue" />
   </component>
 </project>

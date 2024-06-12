@@ -1,0 +1,18 @@
+What is the result?
+
+    A. Compilation fails.
+    B. Cookie 0.0 2.99
+    C. Cookie 2.99 2.99
+    D. Cookie 3.99 2.99
+    E. An exception is produced at runtime.
+    F. Cookie 0.0 0.0
+
+Ans.
+    (B.)
+
+OCP-Java-SE-17-Developer-Study-Guide-Exam-1Z0-829:
+    transient   (Serialize) will not be saved to an I/O stream when the class is serialized.
+                It reverts(De-Serialize), it will display it's default Java values, such as 0.0 for double, or null for an object
+
+    static      (Serialize) will not be saved to an I/O stream when the class is serialized.
+                It reverts(De-Serialize), it will display whatever value was set last.

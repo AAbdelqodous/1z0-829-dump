@@ -1,0 +1,46 @@
+Which two should the module-info file include for it to represent the service provider interface? (Choose two.)
+
+    A. exports com.transport.vehicle.cars;
+    B. provides com.transport.vehicle.cars.impl.CarImpl to com.transport.vehicle.cars.Car;
+    C. requires com.transport.vehicle.cars.Car;
+    D. exports com.transport.vehicle.cars.Car;
+    E. requires com.transport.vehicle.cars;
+    F. exports com.transport.vehicle;
+    G. provides com.transport.vehicle.cars.Car with com.transport.vehicle.cars.impl.CarImpl;
+
+Ans.
+    (A.G.)
+
+Community:
+    requires: must be module name only
+
+OCP-Java-SE-17-Developer-Study-Guide-Exam-1Z0-829:
+    A service: is composed of:
+                    an interface (Tour),
+                    any classes the interface references (Souvenir), and
+                    a way of looking up implementations of the interface (TourFinder).
+                    Note: The implementations are not part of the service (Tourist)
+
+    Service locator: can find any classes that implement a service provider interface.
+                     Java provides a ServiceLoader class to help with this task.
+
+    ServiceLoader:  You pass the service provider interface type to its load() method,
+                    and Java will return any implementation services it can find.
+                    It provided two lookup methods:
+                         - Method exactly one Tour to be returned.
+                         - Method returns a List, which accommodates any number of service providers.
+                    The ServiceLoader call is relatively expensive.
+
+    Consumer (Client) refers to a module that obtains and uses a service.
+                    Once the consumer has acquired a service via the service locator,
+                    it is able to invoke the methods provided by the service provider interface.
+
+    Service provider is the implementation of a service provider interface. As we said earlier,
+                    at runtime it is possible to have multiple implementation classes or modules.
+
+    Tour        Service provider interface because it specifies what behavior our service will have.
+                It can be an abstract class rather than an actual interface.
+    Souvenir    It is considered part of the service because it will be referenced by the interface (Tour).
+                It called a Support class.
+    TourFinder  requires the service provider interface package
+                 uses directive since it will be looking up a service

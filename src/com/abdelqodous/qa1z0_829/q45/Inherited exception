@@ -1,0 +1,9 @@
+Which statement is true?
+
+    A. The program throws ClassCastException.
+    B. The program fails to compile.
+    C. The program throws StockException.
+    D. The program throws OutOfStockException.
+
+Ans.
+    (D.)
